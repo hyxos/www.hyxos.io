@@ -1,5 +1,8 @@
 # www.hyxos.io
 
+## Deploy Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d47f1e0-ee3e-445c-ae5c-019799b411e1/deploy-status)](https://app.netlify.com/sites/naughty-ritchie-2769b9/deploys)
+
 ## Features
 
 * Simple content model and structure. Easy to adjust to your needs.
