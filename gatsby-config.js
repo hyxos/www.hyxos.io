@@ -21,9 +21,9 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Contentful starter',
+    title: 'HYXOS.IO',
   },
-  pathPrefix: '/gatsby-contentful-starter',
+  pathPrefix: '/www.hyxos.io',
   plugins: [
     'gatsby-transformer-remark',
     'gatsby-transformer-sharp',
