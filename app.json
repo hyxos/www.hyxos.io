@@ -1,13 +1,13 @@
 {
-  "name": "Contentful Gatsby Starter",
-  "description": "Gatsby starter for a Contentful project.",
+  "name": "HYXOS.IO",
+  "description": "Hyxos Inc. Company Site",
   "keywords": [
-    "contentful",
-    "gatsby",
-    "static",
-    "ssg"
+    "full stack",
+    "web devepment",
+    "games",
+    "blog"
   ],
-  "repository": "https://github.com/contentful-userland/gatsby-contentful-starter",
+  "repository": "https://github.com/hyxos/www.hyxos.io",
   "success_url": "/",
   "buildpacks": [
     {
